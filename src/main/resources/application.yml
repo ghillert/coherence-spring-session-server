@@ -8,4 +8,4 @@ coherence:
   sessions:
     server:
     - name: default
-      config: "coherence-cache-config.xml"
+      config: "coherence-cache-config-pof.xml"
